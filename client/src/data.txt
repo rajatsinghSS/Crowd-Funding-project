@@ -1,0 +1,37 @@
+Starting migrations...
+======================
+> Network name:    'sepolia'
+> Network id:      11155111
+> Block gas limit: 29999972 (0x1c9c364)
+
+
+1_crowdfunding.js
+=================
+
+   Replacing 'CrowdFunding'
+   ------------------------
+   > transaction hash:    0x99a6ac19395a50e20bc2a91b639060e66a7648b101d020bdd4182ac0551059ef
+   > Blocks: 1            Seconds: 13
+   > contract address:    0x770e8D6Ca7Ca9aC4aE6395d5Bf8AA66F2561E2B4
+   > block number:        4628857
+   > block timestamp:     1699105980
+   > account:             0xBE43a8bE5804853F7e0bEA3E09D610456062C012
+   > balance:             1.37099353817754564
+   > gas used:            1486689 (0x16af61)
+   > gas price:           2.500000011 gwei
+   > value sent:          0 ETH
+   > total cost:          0.003716722516353579 ETH
+
+   Pausing for 2 confirmations...
+
+   -------------------------------
+   > confirmation number: 1 (block: 4628858)
+   > confirmation number: 2 (block: 4628859)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.003716722516353579 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.003716722516353579 ETH

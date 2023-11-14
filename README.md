@@ -30,3 +30,10 @@ It gives voting rights on every request create by manager.
 Requests require 50% votes to payment done.
 ## Refund :
 In case exceed deadline and target not achieve, contributor request for refund and it can proceed automatic through contract.
+
+## Individual Project
+### Role:
+Blockchain Developer, Architect.
+### Responsibilities:
+Designed and implemented smart contracts on the Ethereum blockchain.
+Create UI for better user interaction.

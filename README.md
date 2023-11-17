@@ -2,6 +2,7 @@
 Crowdfunding is a method of raising capital through the collective efforts of a large number of people, typically via the internet. 
 Blockchain can enhance transparency in crowdfunding by providing a transparent and immutable record of all transactions. 
 This transparency builds trust among participants in crowdfunding campaigns, as contributors can trace the flow of funds and ensure they are used as intended.
+- React,Web3.js,truffle
 
 # Features
 ## Decentralized Funding:
